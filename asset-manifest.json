@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Watch-App/static/css/main.9110ed02.css",
+    "main.js": "/React-Watch-App/static/js/main.b2a665c6.js",
+    "static/js/787.3bf0dcc2.chunk.js": "/React-Watch-App/static/js/787.3bf0dcc2.chunk.js",
+    "index.html": "/React-Watch-App/index.html",
+    "main.9110ed02.css.map": "/React-Watch-App/static/css/main.9110ed02.css.map",
+    "main.b2a665c6.js.map": "/React-Watch-App/static/js/main.b2a665c6.js.map",
+    "787.3bf0dcc2.chunk.js.map": "/React-Watch-App/static/js/787.3bf0dcc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9110ed02.css",
+    "static/js/main.b2a665c6.js"
+  ]
+}
